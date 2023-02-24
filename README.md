@@ -1,2 +1,0 @@
-# neriman
-Kişisel Site
